@@ -13,6 +13,10 @@ public class LocalVariableSyntax {
 //      text = 1;
 
 
+
+System.out.print("Hello");
+
+
 //        Cannot infer type:
 //        var a;
 //        var nothing = null;
